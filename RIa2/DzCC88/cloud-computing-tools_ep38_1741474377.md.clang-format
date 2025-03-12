@@ -3,7 +3,6 @@ IndentWidth: 8
 UseTab: Always
 ColumnLimit: 0
 ContinuationIndentWidth: 16
-AlignAfterOpenBracket: DontAlign
 BreakBeforeBraces: Linux
 AllowShortIfStatementsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: false

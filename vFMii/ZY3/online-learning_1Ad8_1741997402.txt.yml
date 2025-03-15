@@ -5,4 +5,3 @@ install:
 
 language: java
 jdk:
-  - openjdk8

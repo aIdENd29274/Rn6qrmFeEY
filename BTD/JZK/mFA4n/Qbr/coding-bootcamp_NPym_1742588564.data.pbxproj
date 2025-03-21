@@ -162,7 +162,6 @@
 		ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ADB0E00822AFA60E0030352D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";

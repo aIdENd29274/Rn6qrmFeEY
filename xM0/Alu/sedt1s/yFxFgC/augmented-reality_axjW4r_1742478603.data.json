@@ -59,7 +59,6 @@
     {
       /* This module use ES6 classes, and so is parsed as ES6 to avoid errors. */
       "files": ["./src/extras/primitives/primitives.js"],
-      "parserOptions": {
         "ecmaVersion": 6
       }
     },
